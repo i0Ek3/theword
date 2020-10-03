@@ -49,4 +49,7 @@
 - improvise 即兴创作，随机应变，临时提供
 - contagious 感染性的，会蔓延的
 - contiguous 连续的，邻近的，接触的
-
+- outpost 前哨
+- subjugate 征服，克制
+- antidote 解药
+- oasis 绿洲
