@@ -53,3 +53,20 @@
 - subjugate 征服，克制
 - antidote 解药
 - oasis 绿洲
+- damselfly 豆娘
+- schrodinger 薛定谔
+- provoke 驱使，煽动，招惹
+- snowflake 雪花，特别的人，过分敏感的人
+- vilify 诽谤，轻视，贬低
+- washout 冲刷，失败者
+- callous 无情的，麻木的
+- sanctimonious 道貌岸然，不诚实的
+- trailblazer 开拓者，先驱
+- maverick 特立独行的，用不正当手段获取
+- grail 圣杯，大盘
+- obfuscate 混淆，使模糊
+- mortal 凡人，终有一死的，不共戴天的
+- murky 黑暗的，阴暗的
+- verge 边缘，绿地，极限
+- understated 低调的，朴素的，轻描淡写的
+- 
