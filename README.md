@@ -69,4 +69,9 @@
 - murky 黑暗的，阴暗的
 - verge 边缘，绿地，极限
 - understated 低调的，朴素的，轻描淡写的
-- 
+- peripheral 外围的，次要的
+- trilogy 三部曲
+- cybertron 控制机，赛博坦
+- transformers 变压器，变形金刚
+- heterogeneity 异质性，不均匀性，多相性
+- crunch 紧缩，短缺，财政困难
