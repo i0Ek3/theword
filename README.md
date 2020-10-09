@@ -75,3 +75,11 @@
 - transformers 变压器，变形金刚
 - heterogeneity 异质性，不均匀性，多相性
 - crunch 紧缩，短缺，财政困难
+- psyche 心智，灵魂
+- evocative 唤起的，唤出的
+- penetrating 渗透的，有洞察力的
+- nasal [ˈneɪzl] 鼻的，鼻音的
+- nuance [ˈnuːɑːns] 细微差别
+- colloquial [kəˈloʊkwiəl] 口语的，通俗的，白话的
+- obsolescent 荒废的，过时的
+- assimilation 同化，吸收
