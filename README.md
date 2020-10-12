@@ -2,6 +2,8 @@
 
 > Personal use and unclassified, fetched from movies and articles.
 
+Actually we only need master 850 words then we can disscus any topic with others. [Here](http://ogden.basic-english.org/wordalph.html) the word, please.
+
 - envisioned 设想
 - decipher 破译
 - mentality 心态智力
@@ -72,7 +74,7 @@
 - peripheral 外围的，次要的
 - trilogy 三部曲
 - cybertron 控制机，赛博坦
-- transformers 变压器，变形金刚
+- transformer 变压器，变形金刚
 - heterogeneity 异质性，不均匀性，多相性
 - crunch 紧缩，短缺，财政困难
 - psyche 心智，灵魂
@@ -83,3 +85,14 @@
 - colloquial [kəˈloʊkwiəl] 口语的，通俗的，白话的
 - obsolescent 荒废的，过时的
 - assimilation 同化，吸收
+- apparatus 设备，仪器
+- epic 叙事诗，史诗，宏大的
+- maniac 疯子，躁狂者，发狂的
+- heck 糟糕，见鬼，该死
+- detour 绕道，迂回
+- clam 蛤蜊，保持沉默
+- probation 试用，缓刑，查验
+- dink 吊球，巧妙的打、踢球，整洁的
+- lepton 轻粒子
+- unguent 药膏，油膏
+- concussion 冲击，震荡，脑震荡
