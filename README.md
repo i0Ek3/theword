@@ -96,3 +96,17 @@ Actually we only need master 850 words then we can disscus any topic with others
 - lepton 轻粒子
 - unguent 药膏，油膏
 - concussion 冲击，震荡，脑震荡
+- ammonia 氨
+- asbestos 石棉
+- catarrh 粘膜炎，卡他
+- dynamite 炸药
+- malaria 疟疾，瘴气
+- omelet 煎蛋卷，炒鸡蛋
+- rheumatism [ˈruːmətɪzəm] 风湿病
+- hygiene [ˈhaɪdʒiːn] 卫生，卫生学，保健法
+- encyclopedia [ɪnˌsaɪkləˈpiːdiə] 百科全书
+- apprehend 理解，忧虑，担心，逮捕
+- conspiracy 合谋
+- poised 泰然自若的，镇定的，平衡的，静止的
+- extramarital 通奸，私通的，婚外的
+- breach 违背，违反，缺口，破坏，打破
