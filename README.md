@@ -110,3 +110,9 @@ Actually we only need master 850 words then we can disscus any topic with others
 - poised 泰然自若的，镇定的，平衡的，静止的
 - extramarital 通奸，私通的，婚外的
 - breach 违背，违反，缺口，破坏，打破
+- crystallized 结晶，使具体化，明确的
+- rife 非常多的，盛行
+- aristocrat 贵族
+- fief 要塞
+- patchy 零散的，分布不均匀的，不很可靠的，斑驳的
+- ropy 粘稠的（液体），强健的，绳状的
