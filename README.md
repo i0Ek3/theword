@@ -116,3 +116,16 @@ Actually we only need master 850 words then we can disscus any topic with others
 - fief 要塞
 - patchy 零散的，分布不均匀的，不很可靠的，斑驳的
 - ropy 粘稠的（液体），强健的，绳状的
+- preempt 抢占
+- scavenger 清道夫，腐食动物，清除剂
+- tropical 热带的，酷热的，热情的
+- recap 概括，回顾
+- forethought 前瞻性
+- proposition 主张，提议
+- equate 等同
+- facet 方面
+- curfew 宵禁
+- disservice 伤害，虐待，帮倒忙的行为
+- voxel 体元，体素，立体像素
+- lockdown 一级防范禁闭
+- bout 回合，较量
