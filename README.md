@@ -129,3 +129,18 @@ Actually we only need master 850 words then we can disscus any topic with others
 - voxel 体元，体素，立体像素
 - lockdown 一级防范禁闭
 - bout 回合，较量
+- retribution 报应
+- hook in 引入
+- hefty 沉重的
+- impede 阻碍，妨碍
+- spam 垃圾邮件，群发
+- incubating 孵化，酝酿
+- holocaust 大屠杀，毁灭
+- neutralized 中立化，中立化的
+- lethal 致命的，致死因子
+- schematic 图解的，原理图
+- repatriate 遣返
+- deport 驱逐出境，放逐
+- cyanide 氰化物
+    - cyanic 青蓝色的，氰的
+- obstruct 妨碍，阻塞
