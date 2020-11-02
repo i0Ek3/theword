@@ -56,7 +56,6 @@ Actually we only need master 850 words then we can disscus any topic with others
 - antidote 解药
 - oasis 绿洲
 - damselfly 豆娘
-- schrodinger 薛定谔
 - provoke 驱使，煽动，招惹
 - snowflake 雪花，特别的人，过分敏感的人
 - vilify 诽谤，轻视，贬低
@@ -144,3 +143,19 @@ Actually we only need master 850 words then we can disscus any topic with others
 - cyanide 氰化物
     - cyanic 青蓝色的，氰的
 - obstruct 妨碍，阻塞
+- distract 分心，分神，转移（注意力）
+- discriminate 辩证
+- dialectically 辩证地
+- weaken 弱化
+- intensify 强化
+- caveats 注意事项
+- fuss 大惊小怪，反对，抗议
+    - don't fuss 别瞎操心了
+    - make a fuss 大惊小怪，小题大做
+- isotopic 同位素
+- carrier 载体
+- pragmatic 实际的，实用主义的
+- penetrate 渗透，贯穿，看破
+- syndicate 财团
+- indiscretion 轻率，言行失检
+- prosecute 检举，贯彻，从事，起诉，告发
