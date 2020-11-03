@@ -159,3 +159,11 @@ Actually we only need master 850 words then we can disscus any topic with others
 - syndicate 财团
 - indiscretion 轻率，言行失检
 - prosecute 检举，贯彻，从事，起诉，告发
+- watershed 分水岭
+- succinctness 简洁，简明
+- disorganize 瓦解
+- domestication 驯化
+- multifaceted 多面的
+- paleolithic 旧石器时代
+- neolithic 新石器时代
+- boilerplate 样板文件，引用
