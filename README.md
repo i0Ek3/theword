@@ -167,3 +167,12 @@ Actually we only need master 850 words then we can disscus any topic with others
 - paleolithic 旧石器时代
 - neolithic 新石器时代
 - boilerplate 样板文件，引用
+- pedantic 迂腐的，卖弄学问的，学究式的
+- cynically 愤世嫉俗地
+- nonchalant 冷淡的，漠不关心的
+- averse 反对的，不愿意的
+- mafia 黑手党
+- loot 战利品，抢劫
+- pacemaker 起搏器，领跑者，标兵
+- perpetrator 犯罪者，行凶者
+- collateral 并行的，旁系的，附属的，抵押
