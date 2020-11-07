@@ -176,3 +176,10 @@ Actually we only need master 850 words then we can disscus any topic with others
 - pacemaker 起搏器，领跑者，标兵
 - perpetrator 犯罪者，行凶者
 - collateral 并行的，旁系的，附属的，抵押
+- parlance 说法
+- wording 措辞，讲话，用语
+- docket 摘要，记事表，诉讼事件表
+- decommissioned 退役的，使退役
+- dispensation 分配，免除，豁免，天命
+- continence 自制，克制，节制
+- contingency 可能发生的事，偶发事件，应急措施，应变的
