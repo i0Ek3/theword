@@ -183,3 +183,19 @@ Actually we only need master 850 words then we can disscus any topic with others
 - dispensation 分配，免除，豁免，天命
 - continence 自制，克制，节制
 - contingency 可能发生的事，偶发事件，应急措施，应变的
+- refraction 折射
+- proponent 支持者
+- contradiction 矛盾，抵触
+- monopoly 垄断
+- arbitrage 套汇，套利，仲裁
+- cheque 支票
+    - check 支票，核对，核实，制止，抑制，中止，托运 
+- chattel 动产，奴隶
+- agile 敏捷的
+- demise 让渡
+- enfeoff 分封
+- amortize 分期偿还
+- macroscopical 宏观的
+- macroeconomics 宏观经济学
+- microcosmic 微观的
+- micoreconomics 微观经济学
