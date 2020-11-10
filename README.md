@@ -210,3 +210,12 @@ Actually we only need master 850 words then we can disscus any topic with others
     - security 证劵，抵押品
 - strike 冲击
 - compliance 合规，符合，顺从，服从，可塑性
+- retrofit 改造
+- business 业务
+- sustainable 可持续的
+- liberalization 自由化
+- equity 产权，公正，普通股，抵押资产的净值
+- deficit 赤字，亏损
+- quantify 量化
+    - quantificat 量化的
+-
