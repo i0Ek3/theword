@@ -199,3 +199,14 @@ Actually we only need master 850 words then we can disscus any topic with others
 - macroeconomics 宏观经济学
 - microcosmic 微观的
 - micoreconomics 微观经济学
+- caliber （统一）口径，才干，水准
+- morale 士气，斗志
+- extortion 勒索，敲诈，强夺
+- stannous 锡的，含锡的
+- strenuous 紧张的，费力的，艰苦的，热烈的
+- hedge fund 对冲基金
+- surveillance 监视，监督
+- bond 证劵，债劵
+    - security 证劵，抵押品
+- strike 冲击
+- compliance 合规，符合，顺从，服从，可塑性
