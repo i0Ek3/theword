@@ -218,4 +218,13 @@ Actually we only need master 850 words then we can disscus any topic with others
 - deficit 赤字，亏损
 - quantify 量化
     - quantificat 量化的
--
+- decoy 诱饵，诱骗
+- miniature 微型的，小规模的，缩图
+- unkempt 蓬乱的，不整洁的
+- charismatic 超凡魅力的
+- sociopath 反社会的人，不爱社交的人
+- aplomb 泰然自若，沉着，垂直
+- eloquently 善辩地
+- euphoria 极度兴奋，情绪高涨，狂喜
+- cannabinoid 大麻素 
+- inflammation 炎症，发炎
