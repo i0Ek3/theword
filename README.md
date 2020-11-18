@@ -228,3 +228,5 @@ Actually we only need master 850 words then we can disscus any topic with others
 - euphoria 极度兴奋，情绪高涨，狂喜
 - cannabinoid 大麻素 
 - inflammation 炎症，发炎
+- errand 使命，差事
+- abomination 厌恶，憎恨
