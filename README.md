@@ -245,3 +245,4 @@ Actually we only need master 850 words then we can disscus any topic with others
 - doorstep 门阶
 - oblivion 遗忘，湮没，赦免
 - amoral 与道德无关的，无从区分是非的
+- hyperbolic 双曲线的，夸张的
